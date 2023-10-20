@@ -1,4 +1,4 @@
-### This is my specific NVIM configuration for my popos machine
+# This is my specific NVIM configuration for my popos machine
 
 ## Requirement
 
